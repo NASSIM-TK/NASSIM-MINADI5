@@ -772,6 +772,7 @@ input[type=radio]{
   flex-direction: column;
   padding: 30px ; 
   background-image: url(images/Project1.jpg);
+  backdrop-filter:blur(10px)
 }
 
 .yad3am{
