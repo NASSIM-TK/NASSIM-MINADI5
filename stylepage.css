@@ -5,14 +5,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
 }
-body{
-    background-image: url(images/Project1.jpg);
-}
+
 
 .hide {
     display: none;
+}
+
+section{
+    text-align: center;
+    background-image: url(images/Project1.jpg);
 }
 
 
@@ -81,9 +84,7 @@ header {
 .navigation a:hover{
     color: #9b1bd6;
 }
-section{
-    text-align: center;
-}
+
 
 .main {
     padding: 100px 200px;
@@ -199,8 +200,7 @@ background-color: #01261C;
     margin: 10px;
 }
 
-.offers {
-
+.offers { 
 }
 
 .offers .content {
