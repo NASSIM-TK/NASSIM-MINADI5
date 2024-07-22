@@ -771,7 +771,7 @@ input[type=radio]{
   justify-content: center;
   flex-direction: column;
   padding: 30px ; 
-  background-color: transparent;
+  background-image: url(images/Project1.jpg);
 }
 
 .yad3am{
